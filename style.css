@@ -1,0 +1,48 @@
+h1{
+    color: goldenrod;
+    background-color:darkgreen;
+    border-radius: 50px;
+}
+
+body{
+font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+font-size: xx-large;
+font-weight: bold;
+background-color: darkgrey;
+}
+
+
+#message{
+    font-style: italic;
+
+}
+
+p{
+    color: maroon;
+}
+
+.div{
+    margin: auto;
+    background-image: url('https://i.pinimg.com/originals/92/5f/c6/925fc6741e9864c0c082b6e6559aef1a.jpg');
+background-size: cover;
+    text-align: center;
+    width: full;
+    height:auto;
+    padding: 20px;
+}
+
+.button{
+    background-color: goldenrod;
+    color: green;
+    padding: 10px;
+    margin: 10px;
+    width: 50%;
+    font-weight: bold;
+    font-size: larger;
+    border: 2px solid maroon;
+    border-radius: 10px;
+}
+
+#player{
+    color: peachpuff;
+}
